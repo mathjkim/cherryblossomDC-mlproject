@@ -1,4 +1,5 @@
-## End to End Maching Learning Project
-practice
-add more
-lines
+## When will it bloom? Cherry Blossom in Washington DC
+
+### (1) Problem statement
+
+This project is to find the range of dates when ithe cherry blossom in Washington DC bloom peakly given the historical data of blooming dates and weather data in DC. 

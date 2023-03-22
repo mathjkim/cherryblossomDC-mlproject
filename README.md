@@ -1,8 +1,8 @@
 ## When will it bloom? Cherry Blossom in Washington DC
 
-<p align="center>
-  <img width="525" height="300" src = "image/wordcloud.png>
-</p>
+
+![plot](image/wordcloud.png)
+
 
 ### (1) Problem statement
 
